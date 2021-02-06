@@ -1,0 +1,42 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  background: #ccc;
+}
+
+.calculator {
+  width: 50%;
+  height: 60%;
+  background-color: skyblue;
+  text-align: center;
+  margin-left: 275px;
+  margin-top: 95px;
+  border-radius: 10px;
+  margin-top: 95px;
+  padding-left: 90px;
+  padding-top: 20px;
+}
+
+#months {
+  width: 175px;
+  height: 20px;
+}
+
+#amount {
+  width: 175px;
+  height: 20px;
+}
+
+#interestRate {
+  margin-left: 2px;
+  width: 175px;
+  height: 20px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+#payment {
+  margin: 20px;
+}
